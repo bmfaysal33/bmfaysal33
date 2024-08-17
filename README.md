@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Tech Entrepreneur.
 - 📫 How to reach me G-mail, Whatsapp, LinkedIn
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: There is no secret recipe of life.
 
 <!---
 bmfaysal33/bmfaysal33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
