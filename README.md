@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bmfaysal33
-- 👀 I’m interested in Technology, Human Psychology, Artificial Intelligence, Business, Economics, and Agriculture.
-- 🌱 I’m currently learning Web development. 
-- 💞️ I’m looking to collaborate with Tech Entrepreneurs.
+Interested in Technology, Human Psychology, Artificial Intelligence, Business, Economics, and Agriculture.
+currently learning Web development. 
+looking to collaborate with Tech Entrepreneurs.
 - 📫 How to reach me G-mail, Whatsapp, LinkedIn
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: There is no secret recipe of life.
