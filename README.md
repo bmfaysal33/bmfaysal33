@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **bmfaysal33@gmail.com**
 
-- ⚡ Fun fact **I'm hilarious...**
+- ⚡ **I'm Hilarious || Optimistic Contrarian || First principle thinker...**
 
 <h3 align="left">Connect with me:</h3>
 
