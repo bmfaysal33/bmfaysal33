@@ -32,8 +32,8 @@
 ### 🔭 I’m working -  on myself.
 ### 🌱 I’m exploring - CP. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to talk and listen to the ones who loved me Unconditionally even when I am busy.
+### 🤔 I’m trying -  
+### ⚡ Fun fact - 
 
 
 <br />
