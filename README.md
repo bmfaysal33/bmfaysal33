@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **bmfaysal33@gmail.com**
 
-- ⚡ **I'm Hilarious || Optimistic Contrarian || First principle thinker...**
+- ⚡ **I'm Optimistic Contrarian || First principle thinker || Hilarious ...**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -13,17 +13,11 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,git,github,figma,notion,vscode&perline=4" />
+  </a>
 </p>
-<p align="center">
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-
-</p>
 <br/>
 
 ## :eyes: Current overview
