@@ -4,9 +4,18 @@
 
 - 📫 How to reach me **bmfaysal33@gmail.com**
 
-- ⚡ **I'm Optimistic Contrarian || First principle thinker || Hilarious ...**
+- ⚡ **I'm Optimistic Contrarian || First principle thinker || ...**
 
-<h2 align="left">Socials</h2>
+- 
+##  🔥: Streak Overview
+<div align = 'center'>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bmfaysal33&theme=dark&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+## 🔗: Connect with me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/bmfaysal33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantonoor" height="30" width="40" /></a>
 <a href="https://fb.com/bmfaysal2033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shantonoor" height="30" width="40" /></a>
@@ -32,12 +41,7 @@
 
 </p>
 
-##  🔥: Streak Overview
-<div align = 'center'>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bmfaysal33&theme=dark&border_radius=8)](https://git.io/streak-stats)
 
-</div>
 
 ## :eyes: Current overview
 
