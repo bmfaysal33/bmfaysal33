@@ -20,6 +20,12 @@
 
 <br/>
 
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmfaysal33&layout=donut-vertical)](https://github.com/bmfaysal33/github-readme-stats)
+
+</p>
+
 ## :eyes: Current overview
 
 
