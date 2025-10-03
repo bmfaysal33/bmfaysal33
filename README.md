@@ -13,18 +13,27 @@
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"  >
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,git,github,figma,notion,vscode&perline=8" />
   </a>
 </p>
 
 <br/>
 
-
-  
+<div align = "center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmfaysal33&layout=donut-vertical)](https://github.com/bmfaysal33/github-readme-stats)
 
+</div>
+
 </p>
+
+##  🔥: Streak Overview
+<div align = 'center'>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bmfaysal33&theme=dark&border_radius=8)](https://git.io/streak-stats)
+
+</div>
 
 ## :eyes: Current overview
 
