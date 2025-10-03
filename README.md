@@ -6,7 +6,11 @@
 
 - ⚡ **I'm Optimistic Contrarian || First principle thinker || Hilarious ...**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Socials</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/bmfaysal33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantonoor" height="30" width="40" /></a>
+<a href="https://fb.com/bmfaysal2033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shantonoor" height="30" width="40" /></a>
+</p>
 
 
 ## :computer: Technologies that I know
