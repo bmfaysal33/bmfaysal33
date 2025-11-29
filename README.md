@@ -4,9 +4,9 @@
 
 - 📫 How to reach me **bmfaysal33@gmail.com**
 
-- ⚡ **I'm Optimistic Contrarian || First principle thinker || ...**
+- ⚡ **I'm Tech Enthusiast || Optimistic Contrarian || First principle thinker || ...**
 
-- 
+  
 ##  🔥: Streak Overview
 <div align = 'center'>
   
@@ -46,11 +46,10 @@
 ## :eyes: Current overview
 
 
-### 🔭 I’m working -  on myself.
-### 🌱 I’m exploring - CP. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying -  
-### ⚡ Fun fact - 
+###  I’m working -  on myself.
+###  I’m exploring - CP. 
+###  I’m looking - To collaborate on open source projects. 
+ 
 
 
 <br />
