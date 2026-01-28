@@ -48,7 +48,7 @@
 
 ###  I’m working -  on myself.
 ###  I’m exploring - CP. 
-###  I’m looking - To collaborate on open source projects. 
+
  
 
 
